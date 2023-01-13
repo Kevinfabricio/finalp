@@ -1,0 +1,6 @@
+function alerta () {
+
+    window.confirm("SUS DATOS FUERON ENVIADOS CORRECTAMENTE NOS COMUNICAREMOS CON USTED EN BREVE")
+    
+
+}
